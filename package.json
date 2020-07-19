@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "yarn workspace gatsby-starter-blog-theme dev",
     "build": "yarn workspace gatsby-starter-blog-theme build",
-    "serve": "yarn workspace gatsby-starter-blog-theme serve"
+    "serve": "yarn workspace gatsby-starter-blog-theme serve",
+    "clean": "yarn workspace gatsby-starter-blog-theme clean"
   },
   "workspaces": ["gatsby-starter-blog-theme", "gatsby-theme-chaton"]
 }
